@@ -1,0 +1,12 @@
+com\kaishengit\crm\UpAndDown\BaseUpload.class
+com\kaishengit\crm\jobs\WeixinQuartzJob$1.class
+com\kaishengit\crm\service\impl\DepartmentServiceImpl.class
+com\kaishengit\crm\jobs\SpringQuartzJob.class
+com\kaishengit\crm\service\impl\FileServiceImpl.class
+com\kaishengit\crm\jobs\WeixinQuartzJob.class
+com\kaishengit\crm\service\impl\CustomerServiceImpl.class
+com\kaishengit\crm\UpAndDown\FdfsUpload.class
+com\kaishengit\crm\UpAndDown\LocalUpload.class
+com\kaishengit\crm\service\impl\StaffServiceImpl.class
+com\kaishengit\crm\service\impl\RemindServiceImpl.class
+com\kaishengit\crm\service\impl\RecodeServiceImpl.class

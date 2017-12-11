@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ehcache>
+    <!--当硬盘不够写入磁盘，当前用户的临时文件夹-->
+    <diskStore path="java.io.tmdir"/>
+    <defaultCache
+           maxElementsInMemory="10000"
+           eternal="false"
+           timeToIdleSeconds="30"
+           timeToLiveSeconds="30"
+           overflowToDisk="true">
+    </defaultCache>
+</ehcache>

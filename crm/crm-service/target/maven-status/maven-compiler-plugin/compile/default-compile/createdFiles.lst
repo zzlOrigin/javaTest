@@ -1,0 +1,9 @@
+com\kaishengit\crm\service\StaffService.class
+com\kaishengit\crm\exception\DepartmentException.class
+com\kaishengit\crm\service\FileService.class
+com\kaishengit\crm\service\RemindService.class
+com\kaishengit\crm\service\RecodeService.class
+com\kaishengit\crm\service\CustomerService.class
+com\kaishengit\crm\exception\CustomerException.class
+com\kaishengit\crm\exception\StaffException.class
+com\kaishengit\crm\service\DepartmentService.class

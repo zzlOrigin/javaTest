@@ -1,0 +1,17 @@
+com\kaishengit\entity\kaolaTypeExample$GeneratedCriteria.class
+com\kaishengit\entity\KaolaExample$Criterion.class
+com\kaishengit\entity\kaolaTypeExample.class
+com\kaishengit\mapper\KaolaMapper.class
+com\kaishengit\entity\kaolaTypeExample$Criteria.class
+com\kaishengit\entity\KaolaExample$Criteria.class
+com\kaishengit\entity\kaolaTypeExample$Criterion.class
+com\kaishengit\entity\KaolaExample$GeneratedCriteria.class
+com\kaishengit\entity\Kaola.class
+com\kaishengit\servlet\impl\KaolaTypeServiceImpl.class
+com\kaishengit\controller\KaolaController.class
+com\kaishengit\servlet\KaolaService.class
+com\kaishengit\entity\KaolaExample.class
+com\kaishengit\servlet\KaolaTypeService.class
+com\kaishengit\servlet\impl\kaolaServiceImpl.class
+com\kaishengit\entity\kaolaType.class
+com\kaishengit\mapper\kaolaTypeMapper.class

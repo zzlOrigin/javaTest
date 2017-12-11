@@ -1,0 +1,8 @@
+com\kaishengit\dao\BaseDao.class
+com\kaishengit\controller\KaolaController.class
+com\kaishengit\service\KaolaService.class
+com\kaishengit\util\PageHelp.class
+com\kaishengit\dao\KaolaDao.class
+com\kaishengit\pojo\Kaola.class
+com\kaishengit\pojo\KaolaType.class
+com\kaishengit\util\RequestUtil.class

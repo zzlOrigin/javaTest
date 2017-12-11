@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" th:href="@{~/css/bootstrap.min.css}">
+</head>
+<body>
+    <div class="container">
+        <h3 th:text="${kaola.productName}" class="page-header"></h3>
+
+        <ul>
+            <li th:text="${'产地:'+kaola.place}"></li>
+            <li th:text="${'市场价:'+kaola.marketPrice}"></li>
+            <li th:text="${'考拉价:'+kaola.price}"></li>
+            <li th:text="${'评论数量:'+kaola.commentNum}"></li>
+            <li>类型</li>
+        </ul>
+        <a th:href="@{/kaola/{id}/edit(id = ${kaola.id})}" class="btn btn-danger">修改商品</a>
+    </div>
+</body>
+</html>

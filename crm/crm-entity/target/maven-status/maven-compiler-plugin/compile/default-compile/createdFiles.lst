@@ -1,0 +1,8 @@
+com\kaishengit\crm\entity\Staff.class
+com\kaishengit\crm\entity\Chance.class
+com\kaishengit\crm\entity\File.class
+com\kaishengit\crm\entity\Record.class
+com\kaishengit\crm\entity\StaffDepartment.class
+com\kaishengit\crm\entity\Customer.class
+com\kaishengit\crm\entity\Department.class
+com\kaishengit\crm\entity\Remind.class

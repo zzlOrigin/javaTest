@@ -1,0 +1,10 @@
+com\kaishengit\controlle\HelloController.class
+com\kaishengit\entity\StudentExample$Criteria.class
+com\kaishengit\entity\StudentExample$Criterion.class
+com\kaishengit\service\impl\StudentServletImpl.class
+com\kaishengit\entity\Student.class
+com\kaishengit\entity\StudentExample$GeneratedCriteria.class
+com\kaishengit\controlle\interceptor\MyInterceptor.class
+com\kaishengit\entity\StudentExample.class
+com\kaishengit\mapper\StudentMapper.class
+com\kaishengit\service\StudentServlet.class

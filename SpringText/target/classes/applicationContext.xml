@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="userDao" class="com.kaishengit.UserDao"/>
+    <!--起别名-->
+    <alias name="userDao" alias="myDao"/>
+
+    <bean id="userService" class="com.kaishengit.UserServiceImpl">
+        <!--把userDao装入-->
+        <!--name属性是set方法set字母后面的有关-->
+        <property name="userDao" ref="userDao"/>
+    </bean>
+</beans>

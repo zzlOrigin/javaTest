@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [01/Dec/2017:11:24:51 +0800] "GET / HTTP/1.1" 200 9500 http-bio-8080-exec-1 1455
+0:0:0:0:0:0:0:1 - - [01/Dec/2017:11:24:57 +0800] "GET /?p_like_s_productName=&p_eq_bd_price_or_marketPrice=50 HTTP/1.1" 200 9229 http-bio-8080-exec-4 55
+0:0:0:0:0:0:0:1 - - [01/Dec/2017:11:25:03 +0800] "GET /?p_like_s_productName=&p_eq_bd_price_or_marketPrice=50&pageNo=2 HTTP/1.1" 200 9434 http-bio-8080-exec-5 44
+0:0:0:0:0:0:0:1 - - [01/Dec/2017:11:25:05 +0800] "GET /?p_like_s_productName=&p_eq_bd_price_or_marketPrice=50&pageNo=4 HTTP/1.1" 200 9230 http-bio-8080-exec-6 53
+0:0:0:0:0:0:0:1 - - [01/Dec/2017:11:25:15 +0800] "GET /?p_like_s_productName=JBL&p_eq_bd_price_or_marketPrice= HTTP/1.1" 200 9515 http-bio-8080-exec-7 49
+0:0:0:0:0:0:0:1 - - [01/Dec/2017:11:25:17 +0800] "GET /?p_like_s_productName=JBL&p_eq_bd_price_or_marketPrice=&pageNo=3 HTTP/1.1" 200 9484 http-bio-8080-exec-8 44
+0:0:0:0:0:0:0:1 - - [01/Dec/2017:11:25:25 +0800] "GET /?p_like_s_productName=JBL&p_eq_bd_price_or_marketPrice=500 HTTP/1.1" 200 2164 http-bio-8080-exec-9 78
+0:0:0:0:0:0:0:1 - - [01/Dec/2017:11:25:28 +0800] "GET /?p_like_s_productName=JBL&p_eq_bd_price_or_marketPrice=399 HTTP/1.1" 200 3522 http-bio-8080-exec-10 82

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>你好，SpringBoot。初次见面请多多指教</h1>
+    <ur>
+        <li th:each="str,iterStat : ${list}" th:text="${str + '-->'+ iterStat.count}"></li>
+    </ur>
+    <h3>大家好,我是编号为<span th:text="${user.id}"></span> ,我的名字是<span th:text="${user.name}"></span> ,我的家庭住址是<span th:text="${user.address}"></span> </h3>
+    <p>parem的值为<span th:text="${param.q}"></span></p>
+    <p th:if="${user.name == '张三'}" th:text="${user.name}" style="color: red">
+
+    </p>
+    <a th:href="@{/user(userId=${user.id})}">点我跳转</a>
+    <a th:href="@{/user/{id}/edit(id=${user.id})}">修改用户</a>
+
+
+    <div style="width: 100px;height: 200px;" th:background="th:src="@{image/狼.jpg}"" >
+        <p th:if="${a <= 0}">这个数小于0</p>
+        <p th:if="${a <= 2}">这个数小于2</p>
+        <p th:if="${a <= 4}">这个数小于4</p>
+        <p th:if="${a <= 6}">这个数小于6</p>
+        <p th:if="${a <= 8}">这个数小于8</p>
+    </div>
+</body>
+</html>

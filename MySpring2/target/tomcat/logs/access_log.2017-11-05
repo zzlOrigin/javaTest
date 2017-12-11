@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:25 +0800] "GET /kaola HTTP/1.1" 200 4077 http-bio-8080-exec-1 842
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:25 +0800] "GET /stataic/js/modernizr-2.6.2.min.js HTTP/1.1" 200 15413 http-bio-8080-exec-4 5
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:25 +0800] "GET /stataic/css/style.css HTTP/1.1" 200 4136 http-bio-8080-exec-3 7
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:25 +0800] "GET /stataic/css/bootstrap.min.css HTTP/1.1" 200 121200 http-bio-8080-exec-5 17
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:25 +0800] "GET /stataic/css/animate.css HTTP/1.1" 200 73008 http-bio-8080-exec-2 12
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:25 +0800] "GET /static/js/jquery.min.js HTTP/1.1" 404 997 http-bio-8080-exec-6 8
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:25 +0800] "GET /stataic/js/bootstrap.min.js HTTP/1.1" 200 37045 http-bio-8080-exec-7 6
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:25 +0800] "GET /stataic/js/main.js HTTP/1.1" 200 1195 http-bio-8080-exec-8 4
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:25 +0800] "GET /stataic/js/jquery.placeholder.min.js HTTP/1.1" 200 3289 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:25 +0800] "GET /stataic/js/jquery.waypoints.min.js HTTP/1.1" 200 8835 http-bio-8080-exec-10 5
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:25 +0800] "GET /static/js/jquery.min.js HTTP/1.1" 404 997 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:25 +0800] "GET /stataic/images/bg_2.jpg HTTP/1.1" 200 27519 http-bio-8080-exec-6 5
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:26 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:35 +0800] "GET /stataic/css/bootstrap.min.css.map HTTP/1.1" 404 1017 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:10:35 +0800] "GET /stataic/css/style.css.map HTTP/1.1" 404 1001 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:13:27 +0800] "GET /stataic/css/bootstrap.min.css.map HTTP/1.1" 404 1017 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [05/Nov/2017:17:13:27 +0800] "GET /stataic/css/style.css.map HTTP/1.1" 404 1001 http-bio-8080-exec-9 3
